@@ -37,6 +37,7 @@ print("Amount:",regr.predict([[3300,1300]]))
 
 ```
 ## Output:
+![Alt text](<car.csv file.png>)
 ![Alt text](output.png)
 
 
